@@ -1,0 +1,46 @@
+body{
+    font-family: 'Grandstander', cursive;
+    background-color: coral;
+}
+.headingdiv{
+    box-shadow: 5px 5px 5px blue;
+    background-color: blue;
+    color: coral;
+    float:none;
+}
+.trained{
+    float:none;
+    background-color: cornsilk;
+    color: red;
+    border: 2px solid coral;
+    border-radius: 20px;
+}
+.button{
+    color: orangered;
+    border:1px ridge whitesmoke;
+    border-radius: 50px;
+    width: 100px;
+    font-size: 20px;
+    height: 20px;
+    background-color: darkblue;
+}
+canvas{
+    border: 3px solid darkblue;
+    margin-top: 290px;
+    margin-bottom: 50px;
+    box-shadow: 5px 5px 5px white;
+    border-radius: 20px;
+    float: none;
+  }
+  .developer{
+    position: fixed;
+    bottom: 0;
+    background-color: darkorange;
+    color: darkblue;
+    width: 100%;
+    text-align: center;
+  }
+  #membername, #Accuracy{
+    color: orange;
+    background-color: darkblue;
+  }
